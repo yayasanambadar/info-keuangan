@@ -446,26 +446,31 @@ a:hover { text-decoration: underline; }
    KONTAK CARD
    ============================================= */
 .kontak-card {}
-.kontak-grid {
-  display: grid;
-  gap: 12px;
+.kontak-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
 }
 .kontak-item {
+  flex: 1;
+  min-width: 130px;
   display: flex;
   flex-direction: column;
-  gap: 3px;
-  font-size: 0.9rem;
-  padding: 12px 14px;
+  gap: 6px;
+  font-size: 0.85rem;
+  padding: 14px 14px;
   background: var(--bg);
   border-radius: var(--radius-sm);
-  border-left: 4px solid var(--primary);
+  border-top: 3px solid var(--primary);
+  text-align: center;
+  align-items: center;
 }
 .kontak-label {
   font-size: 0.72rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.8px;
-  color: var(--text-muted);
+  color: var(--primary);
 }
 
 /* =============================================
