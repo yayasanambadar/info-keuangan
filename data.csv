@@ -1,4 +1,4 @@
-#UPDATED,"Selasa, 02 Juni 2026, 13.20 WIB"
+#UPDATED,"Selasa, 02 Juni 2026, 13.21 WIB"
 NIS,NAMA,KELAS,UANG PANGKAL,SPP (TOTAL),OSIS,PRAKTIK,SERAGAM,BUKU,KEGIATAN,MPLS,JUMLAH,STATUS,NAMA UJIAN,TANGGAL UJIAN
 252607001,Abiyan Khasanul Yusuf,VII EC,,350000,,,,,,,350000,,-,0
 252607002,Afika Hasna Humaira,VII EC,,350000,,,,,,,350000,,-,0
@@ -74,8 +74,8 @@ NIS,NAMA,KELAS,UANG PANGKAL,SPP (TOTAL),OSIS,PRAKTIK,SERAGAM,BUKU,KEGIATAN,MPLS,
 252607070,Vivia Liandani Minur,VII TC,,350000,,,,,,,350000,,-,0
 252607071,Zaskia Zahranisa Rivai,VII TC,,350000,,,,,,,350000,,-,0
 242507001,Adnan Nauval Hidayat,VIII EC,,,,,,,,,0,,-,0
-242507002,Afa Rifqi Surya Pratama,VIII EC,,300000,,,,,,,300000,,-,0
-242507005,Alfando Hercules Tjung,VIII EC,,900000,,,,,,,900000,,-,0
+242507002,Afa Rifqi Surya Pratama,VIII EC,,,,,,,,,0,,-,0
+242507005,Alfando Hercules Tjung,VIII EC,,,,,,,,,0,,-,0
 242507007,Andhika Mahardika Willyade,VIII EC,,,,,,,,,0,,-,0
 242507008,Andhika Yudhistira Sembiring,VIII EC,,,,,,,,,0,,-,0
 242507010,Arbyl Zahrel Nuryadin,VIII EC,,,,,,,,,0,,-,0
@@ -83,61 +83,61 @@ NIS,NAMA,KELAS,UANG PANGKAL,SPP (TOTAL),OSIS,PRAKTIK,SERAGAM,BUKU,KEGIATAN,MPLS,
 242507072,Arrasya Syarafana,VIII EC,,,,,,,,,0,,-,0
 242507014,Avika Ananda Putri,VIII EC,,,,,,,,,0,,-,0
 242507036,Diwan Sakti Al Faruqi,VIII EC,,,,,,,,,0,,-,0
-242507020,Fharikel Martin Atmadja,VIII EC,,600000,,,,,,,600000,,-,0
+242507020,Fharikel Martin Atmadja,VIII EC,,,,,,,,,0,,-,0
 242507022,Frizka Haeyla Wijayanto,VIII EC,,,,,,,,,0,,-,0
 242507024,Gendis Kanaya Putri,VIII EC,,,,,,,,,0,,-,0
 242507027,Inayah Aprilia,VIII EC,,,,,,,,,0,,-,0
 242507028,Jelita Aulia Putri,VIII EC,,,,,,,,,0,,-,0
-242507030,Ladinza Muhammad Ashlan Irwanto,VIII EC,,300000,,,,,,,300000,,-,0
+242507030,Ladinza Muhammad Ashlan Irwanto,VIII EC,,,,,,,,,0,,-,0
 242507031,Luthfiyah Kamila Ramadhani,VIII EC,,,,,,,,,0,,-,0
-242507042,M. Fahri Fabian,VIII EC,,300000,,,,,,,300000,,-,0
-242507037,Maulana Ifdil Hanapi,VIII EC,,300000,,,,,,,300000,,-,0
+242507042,M. Fahri Fabian,VIII EC,,,,,,,,,0,,-,0
+242507037,Maulana Ifdil Hanapi,VIII EC,,,,,,,,,0,,-,0
 242507039,Mochamad Arjuna Prasetyo,VIII EC,,,,,,,,,0,,-,0
-242507042,Muhammad Dzaky Abdul Rahman,VIII EC,,300000,,,,,,,300000,,-,0
+242507042,Muhammad Dzaky Abdul Rahman,VIII EC,,,,,,,,,0,,-,0
 242507046,Muhammad Ridzky Ramadhan,VIII EC,,,,,,,,,0,,-,0
 242507049,Nadiyya Pratiwi,VIII EC,,,,,,,,,0,,-,0
-242507050,Najma Putri Afiqah,VIII EC,,,,,,250000,450000,,700000,,-,0
+242507050,Najma Putri Afiqah,VIII EC,,,,,,,,,0,,-,0
 242507051,Nauraleyah Denisaputri Fazria,VIII EC,,,,,,,,,0,,-,0
-242507054,Raisah Anja Maulida,VIII EC,,300000,,,,,,,300000,,-,0
+242507054,Raisah Anja Maulida,VIII EC,,,,,,,,,0,,-,0
 242507061,Siti Naipatun Najibah,VIII EC,,,,,,,,,0,,-,0
-242507064,Tyara Azkya,VIII EC,,300000,,,,,,,300000,,-,0
+242507064,Tyara Azkya,VIII EC,,,,,,,,,0,,-,0
 242507065,Viollanda Kaella Putri,VIII EC,,,,,,,,,0,,-,0
 242507067,Widya Artanti,VIII EC,,,,,,,,,0,,-,0
-242507068,Yumna Aprilian Riyanto,VIII EC,900000,300000,,,,250000,430000,,1880000,,-,0
+242507068,Yumna Aprilian Riyanto,VIII EC,,,,,,,,,0,,-,0
 242507069,Zahra Rahmadani Prastitha,VIII EC,,,,,,,,,0,,-,0
 242507070,Zildjian Ahmad Zidan,VIII EC,,,,,,,,,0,,-,0
 242507003,Affan Satria Wardoyo,VIII TC,,,,,,,,,0,,-,0
-242507004,Alexsevich Wira Alina,VIII TC,,,,,,,925000,,925000,,-,0
+242507004,Alexsevich Wira Alina,VIII TC,,,,,,,,,0,,-,0
 242507006,Alia,VIII TC,,,,,,,,,0,,-,0
-242507009,Arkan Radhitya Aqila Rizki,VIII TC,,300000,,,,,,,300000,,-,0
-242507012,Athaqilla Zhema Nayaka,VIII TC,,600000,,,,,,,600000,,-,0
-242507013,Cahaya,VIII TC,,1800000,300000,,,250000,1416000,,3766000,,-,0
-242507015,Chelsealia Khairum Nisa,VIII TC,,,,,,,25000,,25000,,-,0
-242507016,Daffa Zakwan Zein,VIII TC,,300000,,,,,,,300000,,-,0
+242507009,Arkan Radhitya Aqila Rizki,VIII TC,,,,,,,,,0,,-,0
+242507012,Athaqilla Zhema Nayaka,VIII TC,,,,,,,,,0,,-,0
+242507013,Cahaya,VIII TC,,,,,,,,,0,,-,0
+242507015,Chelsealia Khairum Nisa,VIII TC,,,,,,,,,0,,-,0
+242507016,Daffa Zakwan Zein,VIII TC,,,,,,,,,0,,-,0
 242507017,Dinda Aulia,VIII TC,,,,,,,,,0,,-,0
-242507019,Fikri Alfart Barlaley,VIII TC,,,,,,250000,,,250000,,-,0
-242507021,Ibrahim Sutan Al Farizy,VIII TC,,600000,,,,250000,1380000,,2230000,,-,0
-242507025,Ilyas Rafif Abbasy,VIII TC,,300000,,,,,,,300000,,-,0
+242507019,Fikri Alfart Barlaley,VIII TC,,,,,,,,,0,,-,0
+242507021,Ibrahim Sutan Al Farizy,VIII TC,,,,,,,,,0,,-,0
+242507025,Ilyas Rafif Abbasy,VIII TC,,,,,,,,,0,,-,0
 242507026,Keisya Azzahra,VIII TC,,,,,,,,,0,,-,0
 242507045,M. Zahy Adzakwaan,VIII TC,,,,,,,,,0,,-,0
 242507029,Mohammad Akbar Alfaris,VIII TC,,,,,,,,,0,,-,0
-242507038,Muhamad Ihsan Assidik,VIII TC,,,,,,190000,1580000,,1770000,,-,0
-242507040,Muhammad Bhima Putra Hasbi,VIII TC,,300000,,,,,,,300000,,-,0
+242507038,Muhamad Ihsan Assidik,VIII TC,,,,,,,,,0,,-,0
+242507040,Muhammad Bhima Putra Hasbi,VIII TC,,,,,,,,,0,,-,0
 242507041,Muhammad Kenzy Alfaro,VIII TC,,,,,,,,,0,,-,0
 42507043,Muhammad Nuha Ainal Yaqin,VIII TC,,,,,,,,,0,,-,0
 242507044,Muhammad Rakha Al-Fauzan,VIII TC,,,,,,,,,0,,-,0
 242507034,Nadira Yasmine Zahida,VIII TC,,,,,,,,,0,,-,0
-242507035,Nadiya Nurul Asqiya,VIII TC,,300000,,,,,,,300000,,-,0
+242507035,Nadiya Nurul Asqiya,VIII TC,,,,,,,,,0,,-,0
 242507048,Nayla Aliya Rabbani,VIII TC,,,,,,,,,0,,-,0
 242507052,Nur Ignasia Dwi Hendra Firmanto,VIII TC,,,,,,,,,0,,-,0
 252608074,Prisylla Qyandra Putri,VIII TC,,,,,,,,,0,,-,0
 242507053,Raskha Atharrayhan Alrizqy,VIII TC,,,,,,,,,0,,-,0
-242507055,Reina Rezkya Irawan,VIII TC,,300000,,,,,,,300000,,-,0
-242507056,Resky Aditya,VIII TC,1550000,1200000,300000,300000,95000,250000,1880000,,5575000,,-,0
-242507057,Rifqi Faedly,VIII TC,,300000,,,,,,,300000,,-,0
-242507058,Rizky Pratama Arya Prasetyo,VIII TC,,300000,,,,,325000,,625000,,-,0
-242507059,Rizqa Auliya,VIII TC,,300000,,,,,,,300000,,-,0
-242507060,Syafiq Anas Alfarisi,VIII TC,,300000,,,,,,,300000,,-,0
+242507055,Reina Rezkya Irawan,VIII TC,,,,,,,,,0,,-,0
+242507056,Resky Aditya,VIII TC,,,,,,,,,0,,-,0
+242507057,Rifqi Faedly,VIII TC,,,,,,,,,0,,-,0
+242507058,Rizky Pratama Arya Prasetyo,VIII TC,,,,,,,,,0,,-,0
+242507059,Rizqa Auliya,VIII TC,,,,,,,,,0,,-,0
+242507060,Syafiq Anas Alfarisi,VIII TC,,,,,,,,,0,,-,0
 242507062,Walid Zahiir Filardli,VIII TC,,,,,,,,,0,,-,0
 232407001,Abie Manyu,IX A,2900000,8100000,350000,600000,1155000,460000,4533000,,18098000,PENDING,PENGUMUMAN SKL,Tue Jun 02 2026 00:00:00 GMT+0700 (Waktu Indonesia Barat)
 232407002,Afrizal Zailani,IX A,,300000,,,,,,,300000,AKTIF,PENGUMUMAN SKL,Tue Jun 02 2026 00:00:00 GMT+0700 (Waktu Indonesia Barat)
